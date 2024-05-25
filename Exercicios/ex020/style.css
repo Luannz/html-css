@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+body {
+   background-color:#013440;
+}
+
+div {
+    display: inline-block;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    border: 1px solid black;
+    text-align: center;
+    height: 200px;
+    width: 200px;
+}
+
+div:hover {
+    background-color: rgb(174, 138, 138);
+}
+
+
+
